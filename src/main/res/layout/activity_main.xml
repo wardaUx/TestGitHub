@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/textViews"
+        android:background="#388E3C"
+        android:text="@string/numbers"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/textViews"
+        android:background="#C8E6C9"
+        android:text="@string/family_members"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/colors"
+        android:background="#009688"
+        android:text="@string/colors"
+        style="@style/textViews"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/phrases"
+        android:background="#757575"
+        style="@style/textViews"
+        android:text="@string/phrases"
+        android:textAlignment="center"/>
+
+
+</LinearLayout>

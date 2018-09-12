@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Language app</string>
+    <string name="phrases">Phrases</string>
+
+
+    <string name="colors">Colors</string>
+
+
+    <string name="numbers">Numbers</string>
+
+    <string name="family">Family Members</string>
+    <string name="family_members">Family Members</string>
+
+</resources>
